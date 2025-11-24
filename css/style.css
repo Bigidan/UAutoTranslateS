@@ -241,7 +241,7 @@ a:any-link {
     font-family: 'Comfortaa', cursive;
 
     font-size: 18px;
-    max-width: 485px;
+    max-width: 530px;
     font-weight: 600;
 }
 
@@ -537,6 +537,7 @@ section ul li.active {
         background-size: auto;
     }
 }
+
 
 
 
